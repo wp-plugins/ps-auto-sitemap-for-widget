@@ -1,0 +1,44 @@
+# Copyright (C) 2015 PS AUTO SITEMAP for Widget
+# This file is distributed under the same license as the PS AUTO SITEMAP for Widget package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PS AUTO SITEMAP for Widget 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/psas-widget\n"
+"POT-Creation-Date: 2015-03-16 01:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-03-16 10:19+0900\n"
+"Last-Translator: YANO Yasuhiro <yano.yasuhiro@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#. #-#-#-#-#  psas-widget.pot (PS AUTO SITEMAP for Widget 0.1)  #-#-#-#-#
+#. Description of the plugin/theme
+#: psas-widget.php:26
+msgid "Display a sitemap that was created in PS AUTO SITEMAP."
+msgstr "PS AUTO SITEMAPで生成されたサイトマップをウィジットエリアに表示する"
+
+#: psas-widget.php:46
+msgid "Title :"
+msgstr "タイトル："
+
+#: psas-widget.php:60
+msgid "Sitemap page URL :"
+msgstr "サイトマップ用ページURL"
+
+#: psas-widget.php:74
+msgid "Message when there is none sitemap cache :"
+msgstr "サイトマップのキャッシュがないときのメッセージ"
+
+#. Plugin Name of the plugin/theme
+msgid "PS AUTO SITEMAP for Widget"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YANO Yasuhiro"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://plus.google.com/u/0/+YANOYasuhiro/"
+msgstr ""
